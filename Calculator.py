@@ -48,7 +48,7 @@ while True:
             print("Result:", num1 + num2)
         elif operator == "-":
             print("Result:", num1 - num2)
-        elif operator == "":
+        elif operator == "*":
             print("Result:", num1 num2)
         elif operator == "/":
             if num2 != 0:
