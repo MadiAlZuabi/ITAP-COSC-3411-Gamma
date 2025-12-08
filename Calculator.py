@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import math
 
-print("Simple Calculator")
+print("Calculator")
 print("Operators: +  -  *  /  sin  cos  tan")
 print("Type 'exit' to quit.\n")
 
